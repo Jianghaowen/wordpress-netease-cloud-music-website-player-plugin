@@ -1,0 +1,58 @@
+.open {
+       display:block;
+}
+.close {
+    display:none;
+}
+#guan2 {
+	position: fixed;
+        bottom: 420px;
+        left: 300px;
+	color: #696e78;
+	font-family: "wbficonregular" !important;
+        -webkit-font-smoothing: antialiased;
+        z-index:9999;
+}
+#music {
+	position: fixed;
+        bottom:25px;
+        left: 0;
+        z-index: 9999;
+        background: rgba(0, 0, 0, 0.6);
+}
+#music2 {
+	 top: 19px;
+         left: 20px;
+         width: 15px;
+         height: 18px;
+         background-position: -65px -160px;
+         position: absolute;
+         z-index: 2;
+         display: inline-block;
+         background-image: url(/img/2.png);
+         background-repeat: no-repeat;
+         background-color: transparent;
+}
+#music3 {
+	 position: absolute;
+         top: 0;
+         left: 0;
+         background: rgba(0, 0, 0, 0.6);
+         z-index: 1;
+         display: block;
+         width: 50px;
+         height: 50px;
+}
+#music4 {
+	 display:none;
+         position: fixed;
+         bottom:0px;
+         left: 0;
+         z-index: 9999;
+}
+a {
+	text-decoration:none;
+}
+a:hover {
+text-decoration: none;
+}
