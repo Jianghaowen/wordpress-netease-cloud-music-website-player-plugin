@@ -7,6 +7,7 @@ Version:     1.0
 Author:      South-Rose
 Author URI:  http://jianghaowen.com
 */
+error_reporting(0);
 add_action( 'wp_head','netease_cloud_music_player_css_add',1);
 function netease_cloud_music_player_css_add() {
     wp_enqueue_style( 
