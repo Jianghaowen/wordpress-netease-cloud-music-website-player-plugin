@@ -12,6 +12,7 @@
 	font-family: "wbficonregular" !important;
         -webkit-font-smoothing: antialiased;
         z-index:9999;
+	display:none;
 }
 #music {
 	position: fixed;
