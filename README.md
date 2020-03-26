@@ -1,4 +1,4 @@
-# wordpress-netease-cloud-music-website-player-plugin（网易云音乐播放器wordpress插件）
+# wordpress-netease-cloud-music-website-player-plugin
 a plugin help you to come true play netease cloud song sheet on your wordpress website        
 ## using way      
 First put the file to the wp-content\plugins\you creat folder and open the plugin in your wordpress backstage.     
